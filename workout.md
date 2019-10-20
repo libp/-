@@ -25,5 +25,5 @@
 
 ## 2019年  
 ### 10月20日    
-30分钟
-![](/assets/1.jpg  =100x100)
+30分钟  
+ <img src="./assets/1.jpg" width = "100" height = "140"/>
