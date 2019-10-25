@@ -30,4 +30,4 @@
 
 ### 10月25日    
 30分钟  
- <img src="./assets/2.jpg" width = "100" height = "140"/>
+ <img src="./assets/2.png" width = "100" height = "140"/>
