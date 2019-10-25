@@ -27,3 +27,7 @@
 ### 10月20日    
 30分钟  
  <img src="./assets/1.jpg" width = "100" height = "140"/>
+
+### 10月25日    
+30分钟  
+ <img src="./assets/2.jpg" width = "100" height = "140"/>
